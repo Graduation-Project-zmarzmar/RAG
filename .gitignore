@@ -1,0 +1,15 @@
+.env
+.env.*
+
+.venv/
+uv.lock
+
+__pycache__/
+*.py[cod]
+*.log
+
+.DS_Store
+
+.vscode/
+
+.ipynb_checkpoints/
